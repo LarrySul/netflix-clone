@@ -331,6 +331,7 @@ img {
   }
 
   .showcase-content h1 {
+    z-index: 5;
     font-size: 2.0rem;
     line-height: 0.8;
   }
