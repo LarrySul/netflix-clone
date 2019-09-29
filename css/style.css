@@ -316,7 +316,7 @@ img {
 
 @media (max-width: 960px) {
   .showcase {
-    height: 70vh;
+    height: 60vh;
   }
 
   .hide-sm {
@@ -324,24 +324,24 @@ img {
   }
 
   .showcase-top img {
-    top: 30%;
+    top: 25%;
     left: 5%;
     transform: translate(0);
     cursor: pointer;
   }
 
   .showcase-content h1 {
-    font-size: 3.2rem;
+    font-size: 2.0rem;
     line-height: 1;
   }
 
   .showcase-content p {
-    font-size: 1.7rem;
+    font-size: 1.0rem;
   }
 
   .btn-xl {
-    font-size: 0.9rem;
-    padding: 0.9rem 1.4rem;
+    font-size: 0.7rem;
+    padding: 0.7rem 1.2rem;
   }
 
   .text-xl {
